@@ -2,12 +2,16 @@
   <div class="top-bar">
     <el-row>
       <el-col :span="24">
-        <el-menu router mode="horizontal" background-color="#1a80b6" text-color="#fff" active-text-color="#ffd04b">
+        <el-menu router mode="horizontal" background-color="#117450" text-color="#fff" active-text-color="#ffd04b">
           <el-menu-item index='/'>
             Home
           </el-menu-item>
           <el-menu-item index='/AboutUs'>
             About Us
+          </el-menu-item>
+
+          <el-menu-item index='/BoardMembers'>
+            Board Members
           </el-menu-item>
 
           <el-menu-item index='/Events'>

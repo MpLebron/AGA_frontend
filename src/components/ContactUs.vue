@@ -18,20 +18,20 @@
         </li>
 
         <li>
-          <strong>Dr. Xintao Liu</strong>
-          <p>Secretary General, Assistant Professor
+          <strong>Dr. Li He</strong>
+          <p>Secretary General , Associate Professor
           </p>
           <strong>Address:</strong>
-          <p>Hong Kong Polytechnic University<br>
-            181 Chatham Road South, Hung Hom, Kowloon, Hong Kong, China.<br>
+          <p>Xi'an Jiaotong University<br>
+            28 Xianning Road West, Xi'an, Shaanxi, 710049, China<br>
           </p>
           <strong>E-mail:</strong><br>
-          <a href="mailto:xintao.liu@polyu.edu.hk" style="color: orange;"> xintao.liu@polyu.edu.hk </a><br>
+          <a href="mailto:lihegeo@xjtu.edu.cn" style="color: orange;"> mailto:lihegeo@xjtu.edu.cn </a><br>
           <br>
         </li>
 
         <li>
-          <strong>Dr. Zaiyang Ma</strong>
+          <strong>Kai Zhang</strong>
           <p>Office Assistant
           </p>
           <strong>Address:</strong>
@@ -39,7 +39,7 @@
             1 Wenyuan Road, Nanjing, Jiangsu, 210023, China<br>
           </p>
           <strong>E-mail:</strong><br>
-          <a href="mailto:mzaiyang@outlook.com" style="color: orange;"> mzaiyang@outlook.com </a><br>
+          <a href="mailto:zhangk2g@163.com" style="color: orange;"> zhangk2g@163.com </a><br>
           <br>
 
         </li>
@@ -96,9 +96,9 @@ export default {
       } else if (this.isEmail(c_email)) {
         // to Zaiyang Ma
         this.$http.post(
-          'https://formspree.io/f/mrgrprpw',
+          'https://formspree.io/f/mvodkdky',
           {
-            From: 'igu-geomodeling.com',
+            From: 'aga-ygwg.com',
             Name: c_name,
             Email: c_email,
             Message: c_message
@@ -110,9 +110,9 @@ export default {
 
         // To Xintao Liu
         this.$http.post(
-          'https://formspree.io/f/xdopdyoa',
+          'https://formspree.io/f/xleobwbk',
           {
-            From: 'igu-geomodeling.com',
+            From: 'aga-ygwg.com',
             Name: c_name,
             Email: c_email,
             Message: c_message
@@ -159,7 +159,7 @@ hr {
 }
 
 #ConInfo {
-  color: #1a80b6;
+  color: #117450;
   font-size: 20px;
   font-weight: 1000;
 }
@@ -170,14 +170,14 @@ hr {
 }
 
 h3 {
-  color: #1a80b6;
+  color: #117450;
   font-size: 20px;
   font-weight: 1000;
 }
 
 #messageTip {
   font-size: 14px;
-  color: #1a80b6;
+  color: #117450;
 }
 
 a {

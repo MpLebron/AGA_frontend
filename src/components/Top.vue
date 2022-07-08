@@ -4,8 +4,8 @@
       <a href="http://www.baidu.com"><img class="Title" src="../assets/static/img/logo/KeyLogo.png"></a>
     </div>
     <div class="text-space">
-      <p>Modeling Geographical Systems Commission (MGSC)</p>
-      <p>International Geographical Union (IGU)</p>
+      <p>Young Geographer Working Group (YGWG)</p>
+      <p>Asian Geographical Association (AGA)</p>
     </div>
   </div>
 </template>

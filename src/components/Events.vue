@@ -2,45 +2,22 @@
   <div id="Events">
     <div>
       <el-tabs tab-position="left" v-model="activeTabName">
-        <el-tab-pane label="2022" name="2022">
-          <div class="list-group">
-            <a href="#" class="list-group-item active">
-              2022 Events
-            </a>
-            <router-link to="/Events/2022/1">
-              <a href="#" class="list-group-item">Call for Nominations - IGU Outstanding Achievement Award and Excellent Young Scholar Award in Modeling Geographical Systems (2022)</a>
-            </router-link>
-          </div>
-        </el-tab-pane>
-
         <el-tab-pane label="2021" name="2021">
           <div class="list-group">
             <a href="#" class="list-group-item active">
               2021 Events
             </a>
 
-            <router-link to="/Events/2021/6">
-              <a href="#" class="list-group-item">Minutes of the second board meeting of Modeling Geographical Systems Commission (MGSC)</a>
-            </router-link>
-
-            <router-link to="/Events/2021/5">
-              <a href="#" class="list-group-item">IGU 19th International Conference on Spatial Data Handling and Geographic Intelligence</a>
-            </router-link>
-
-            <router-link to="/Events/2021/4">
-              <a href="#" class="list-group-item">The first training course on Chinese geographical analysis models</a>
-            </router-link>
-
             <router-link to="/Events/2021/3">
-              <a href="#" class="list-group-item">Minutes of the first board meeting of Modeling Geographical Systems Commission (MGSC)</a>
+              <a href="#" class="list-group-item">Semi-annual Meeting of Board Members, AGA-YGWG</a>
             </router-link>
 
             <router-link to="/Events/2021/2">
-              <a href="#" class="list-group-item">The 2nd national forum on geographic modeling and simulation (and the launch ceremony of the training course on domestic geographical analysis models)</a>
+              <a href="#" class="list-group-item">Prof. Dr. Antonio Paez's editoral introduction of the forthcoming special issue on Open Spatial Science in the Journal of Geographical Systems (JGS).</a>
             </router-link>
 
-            <router-link to="/Evetns/2021/1">
-              <a href="#" class="list-group-item">Call for Abstracts | The session of Geographic information modelling and simulation in the era of big data in IGU Paris 2022</a>
+            <router-link to="/Events/2021/1">
+              <a href="#" class="list-group-item">The First Asian Young Geographers Workshop Held Online</a>
             </router-link>
           </div>
         </el-tab-pane>
@@ -51,7 +28,7 @@
               2020 Events
             </a>
             <router-link to="/Events/2020/1">
-              <a href="#" class="list-group-item">The general election of Modeling Geographical Systems Commission (MGSC) of International Geographical Union (IGU)</a>
+              <a href="#" class="list-group-item">First online meeting of Young Geographer Working Group (YGWG) of AGA</a>
             </router-link>
           </div>
         </el-tab-pane>
@@ -66,7 +43,7 @@ export default {
   data() {
     return {
       value: '',
-      activeTabName: '2022'
+      activeTabName: '2021'
     }
   }
 }
@@ -85,7 +62,7 @@ export default {
 }
 
 h3 {
-  color: #1a80b6;
+  color: #117450;
   font-size: 20px;
   font-weight: 1000;
 }
@@ -104,8 +81,8 @@ h3 {
 }
 
 .list-group-item.active {
-  background-color: #1a80b6;
-  border-color: #1a80b6;
+  background-color: #117450;
+  border-color: #117450;
 }
 
 a {

@@ -1,58 +1,22 @@
 <template>
   <div id="_2021_1">
     <div id="Call-for-Abstracts" class="cos-modal">
-      <h3><strong>Call for Abstracts | The session of Geographic information modelling and simulation in the era of big data in IGU Paris 2022</strong></h3>
-      <small class="home-date">June 18 to 22, 2022<br></small>
+      <h3><strong>The First Asian Young Geographers Workshop Held Online</strong></h3>
+      <small class="home-date">December 18th–19th, 2021<br></small>
       <hr>
-      <p> &nbsp;&nbsp;&nbsp;&nbsp;The centennial congress of the International Geographical Union (IGU) will be held in Paris from June 18 to 22, 2022.
-        Around the theme "Time for Geographers" of the congress, the Modeling Geographical Systems Commission (MGSC) of IGU will organize a virtual
-        session–Geographic information modelling and simulation in the era of big data–to promote idea exchange and achievement sharing in this field.<br></p>
+      <p> &nbsp;&nbsp;&nbsp;&nbsp;On December 18th–19th, 2021, the First Asian Young Geographers Workshop was held online. Initiated by the Young Geographers Working Group of the Asian Geographical Association (AGA-YCWG), the Workshop was jointly organized by AGA-YGWG, Young and Early Career Geographers Task Force of the International Geographical Union (IGU-YECG) and Working Committee for Young Geographers of the Geographical Society of China (GSC- WCYG). Under the theme “Young Geographers’ Response to Challenges in Asia”, the workshop attracted about 600 participants from 30 countries and regions worldwide. After call for paper within two weeks, a total of 213 abstracts and papers were received. As a result, 178 of them have been selected for oral presentations in 14 sessions of different topics, such as Building Resilience to Poverty Reduction in Asia, Hydro-Climatic Extreme Events in Mountain Regions, Geographical Indications Environment and Sustainability, etc.<br></p>
 
-      <div style="margin-top: 2%;margin-bottom: 2%;">
-        <img src="../../../assets/static/img/Events/Call-for-Abstracts.png" style="width: 100%">
+      <div style="margin-top: 2%;margin-bottom: 2%;" class="pic">
+        <img src="../../../assets/static/img/Events/The-First-Asian.png" style="width: 80%">
       </div>
-      <h3>Session description</h3>
-      <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;In the age of Internet, big data has become an important resource of human society.
-        It is growing exponentially and rapidly affecting the development and transformation of human society.
-        There are new opportunities that have also been taking place in the development of geography.
-        In this context, the stage of "measurement revolution" and the application of geographic information system
-        in geographic models and geographic information analyses have been past, and now they are stepping into the era of big data.<br>
 
-        &nbsp;&nbsp;&nbsp;&nbsp;On one hand, we need to find a way to invert the process of changes in the earth’s surface and establish a
-        geoscience information map through the spatiotemporal digital construction based on computational science. On the
-        other hand, with the support of big data and artificial intelligence, we need to explore the complex laws of earth
-        surface changes relying on the professional knowledge of geosciences, through which we can discover new geoscience
-        knowledge and realize holographic intelligent planning and prediction of the future. For example, there has been COVID-19
-        spreading globally since early 2020 until nowadays. To tackle the pandemic, spatiotemporal big data analysis and geographic
-        modelling have been put forward with higher requirements in terms of geographic detection of epidemic risk, spatiotemporal
-        diffusion laws, dissemination of early warnings, medical resource analysis, online public opinion monitoring, etc..<br>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;The opening ceremony kicked off on the morning of 18th. Prof. Min Chen, Chair of the AGA-YGWG declared the workshop open. Prof. Chul Sue Hwang, Vice President of the AGA, President of the Korean Geographical Society, Dr. Komali Yenneti, Chair of the IGU-YECG, Dr. Zhuo Wu, Vice Secretary General of GSC-WCYG delivered welcome speeches on behalf of the three organizers respectively. Then, Ms. Xuanzi Zhang, Secretary and Treasurer of the AGA introduced the preparatory work of the 5th Asian Conference on Geography (5th ACG) and invited all participants to get together again at the 5th ACG, to be held during September 5th -9th, 2022 in Thai Nguyen, Vietnam.</p>
 
-        &nbsp;&nbsp;&nbsp;&nbsp;This session aims to discuss and explore related theories,
-        methods and potential practices, facilitating communication between experts from different domains, encouraging extensive discussion regarding the
-        potential directions of the field, and promoting further research for a bright future.
-      </p>
-      <h3>Abstract submission</h3>
-      <ul>
-        <li>Abstracts should be submitted in English.</li>
-        <li>Please follow the instructions below for writing your abstract in the submission form:<br>
-          1. Title: maximum of 255 characters (spaces included);<br>
-          2. Resume: Text should be a maximum of 2000 characters (spaces included);<br>
-          3. Keywords: maximum of 5.<br>
-          4. References: maximum of 5.<br>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;During the two-day online event, the workshop featured keynote talks given by 7 distinguished geographers, including Young Geographers in Asia and Sustainable Development by Prof. Yukio Himiyama, Past President of the IGU, Coastal and Estuarine Wetlands in Anthropocene by Prof. Michael Meadows, President of the IGU, Sustainable Water Resources Management: Issues and Challenges by Prof. Suresh Chand Rai, Vice President of the AGA and Secretary General of the National Association of Geographers, India, Climate Change in South Asia: Implications for Land by Prof. Safdar Ali Shirazi, President of the Pakistan Geographical Association, Smart Technology and Sustainable Cities and Communities by Prof. Anthony Yeh, Academician of the Chinese Academy of Sciences, Professor of University of Hong Kong, Big Data and Geospatial Technologies for Sustainable Cities Research by Prof. Mei-po Kwan, Chinese University of Hong Kong, Ecosystem Responses to Gradual Environment Change by Prof. Shuli Niu, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences.</p>
 
-        </li>
-        <li>Website: <a target="_blank" href="https://www.ugiparis2022.org/en/abstracts-submission/29">https://www.ugiparis2022.org/en/abstracts-submission/29</a></li>
-      </ul>
-      <h5>Now, the call for abstracts is open! You are invited to submit your abstracts for oral presentations.</h5>
-      <strong>Abstract submission</strong>
-      <p>The deadline for the abstract proposals is January 11th, 2022.<br>
-        The announcement of the accepted abstracts is expected by January 21st, 2022.<br>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;The workshop concluded on the afternoon of 19th. Prof. Li He, Secretary General of AGA-YGWG chaired the closing ceremony. Prof. Min Chen made a summary report on the achievements of the workshop. Then, Prof. Guoyou Zhang, Vice President and Secretary General of the GSC announced the winners of the Excellent Paper Awards. After recommendations by session chairs first and thorough review and deliberation by the awarding committee afterwards, finally 9 papers were selected for the awards. 3 recipients including Dr. Fan Zhang from Massachusetts Institute of Technology, USA, Dr. Yangyang Li from National University of Singapore and Dr. Vu Thi Bac from VNUHCM-University of Social Sciences and Humanities, Vietnam were invited to give their acceptance speeches.</p>
 
-        For other information about the centennial congress, please refer to:
-
-        <a href="https://www.ugiparis2022.org/en/scientificinformation/1" target="_blank">https://www.ugiparis2022.org/en/scientificinformation/1</a>
-      </p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;Under the Covid-19 pandemic which has been lasting for two years, the workshop was initiated to serve as a new platform for young geographers in Asia and elsewhere of the world, to facilitate sharing, exchanges and collaborations on their latest research, in order to seek responses to address nowadays’ challenges we are facing.</p>
     </div>
   </div>
 </template>
@@ -77,7 +41,7 @@ export default {
 }
 
 h3 {
-  color: #1a80b6;
+  color: #117450;
   font-size: 20px;
   font-weight: 1000;
 }
@@ -89,5 +53,11 @@ a {
 .home-date {
   font-weight: bold;
   color: grey;
+}
+
+.pic {
+  width: 1240px;
+  display: table-cell;
+  text-align: center;
 }
 </style>

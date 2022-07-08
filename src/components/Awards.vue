@@ -6,41 +6,34 @@
         <hr>
         <div>
           <p>The Best Paper Award (BPA) is presented to the individual(s) judged by an awards committee to have written the best paper appearing in the annual conference proceedings.<br></p>
-          <p>Two BPAs will be awarded at each annual conference. Notice of BPA application will be announced along with the Annual Conference Notice.</p>
+          <p>Three BPAs will be awarded at each annual conference. Notice of BPA application will be announced along with the Annual Conference Notice.
+          </p>
+          <p>All applicants must be YGWG members. Membership Application Form can be found under the page of "Join Us" on this website. Membership applicants need to fill the forms and email the forms to the corresponding regional contact person.</p>
         </div>
       </div>
       <div>
-        <h3 class="cos-strong">Excellent Young Scholar Award</h3>
+        <h3 class="cos-strong">Young Scholar Award</h3>
         <hr>
         <div>
           <p>The Young Scholar Award (YSA) is presented to the individual(s) judged by an awards committee recognize his or her outstanding scientific achievements and contributions. Applicants needs to hold a PhD degree, and within seven years of graduation.<br></p>
           <p>Two YSAs will be awarded each year.<br></p>
           <p>Details regarding requirements and documents for application will be announced soon on this website.</p>
+          <p>All applicants must be YGWG members. Membership Application Form can be found under the page of "Join Us" on this website. Membership applicants need to fill the forms and email the forms to the corresponding regional contact person.</p>
+          <p></p>
+          <i class="el-icon-paperclip"><a href="http://221.226.60.2:8082/data/e754fe3b-5fd7-4161-b6f2-c3f75710e5c2" class="greenColor">&nbsp;&nbsp;Young Scholar Award (YSA) Application Form.docx</a></i>
         </div>
       </div>
 
-      <div>
-        <h3 class="cos-strong">Outstanding Achievement Award</h3>
-        <hr>
-        <div>
-          <p>The Outstanding Achievement Award is conferred by the commission on members of the commission who have given long and meritorious service to the commission or for particularly meritorious academic contribution of a shorter duration.</p>
-          <p>One OAA will be awarded every year.<br></p>
-          <p>Details regarding requirements and documents for application will be announced soon on this website.</p>
-        </div>
-      </div>
+      <br>
 
       <div>
         <h3 class="cos-strong">Distinguished Service Award</h3>
         <hr>
-        <p>
-        <p>The Distinguished Service Award (DSA) is conferred by
-          the commission on members of the commission who have given long
-          and meritorious service to the commission or for particularly meritorious service of a shorter duration.<br>
-        <p>One DSA will be awarded every year.</p>
-        <p>Details regarding requirements and documents for application will be announced soon on this website.</p>
-      </div>
-      <div style="margin-top:10px">
-        <a href="http://221.226.60.2:8082/data/a02d7d75-6a3c-4f87-8c04-e91ca8d5cf4c">IGU MGSC Award Nomination Letter Template (for OAA and YSA)</a>
+        <div>
+          <p>The Distinguished Service Award (DSA) is conferred by the working group on members of the working group who have given long and meritorious service to the working group or for particularly meritorious service of a shorter duration.</p>
+          <p>One DSA will be awarded every two years.<br></p>
+          <p>Please be aware that the deadline for submitting application for each year's DSA is June 1st 2022. Details regarding requirements and documents for application will be announced soon on this website.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -65,7 +58,7 @@ export default {
 }
 
 h3 {
-  color: #1a80b6;
+  color: #117450;
   font-size: 20px;
   font-weight: 1000;
 }
@@ -73,5 +66,13 @@ h3 {
 hr {
   border: 0.1px solid;
   border-color: #eeeeee;
+}
+
+a {
+  text-decoration: none;
+}
+
+.greenColor {
+  color: #117450 !important;
 }
 </style>

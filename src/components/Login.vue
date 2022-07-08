@@ -448,7 +448,7 @@ export default {
 }
 
 h3 {
-  color: #1a80b6;
+  color: #117450;
   font-size: 25px;
   font-weight: 1000;
   text-align: center;
@@ -459,7 +459,7 @@ a,
 a:not([href]):not([class]),
 a:not([href]):not([class]):hover {
   text-decoration: none;
-  color: #1a80b6;
+  color: #117450;
 }
 
 .el-form-item__error {
