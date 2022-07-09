@@ -84,7 +84,7 @@
         <p>Full details of the call are available <a target="_blank" href="https://www.mdpi.com/journal/water/special_issues/hydroinformatics_data">here. </a></p>
 
       </div>
-      <i class="el-icon-paperclip"><a href="http://221.226.60.2:8082/data/901235cd-1e8d-464b-a46a-70835fd611ad" class="greenColor">&nbsp;&nbsp;Young Scholar Award (YSA) Application Form.docx</a></i>
+      <i class="el-icon-paperclip"><a href="http://221.226.60.2:8082/data/901235cd-1e8d-464b-a46a-70835fd611ad" class="greenColor">&nbsp;&nbsp;Receipt Form for Participation in the Seminar on Space Intelligence and Energy Digital Development</a></i>
 
     </div>
   </div>

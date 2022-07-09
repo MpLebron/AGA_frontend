@@ -12,13 +12,13 @@
       <h3>Latest News</h3>
       <hr>
       <div>
-        <router-link to="/Events/2022/1">
+        <router-link to="/Events/2021/1">
           <strong class="home-h"><a id="Call-for-Nominations">The First Asian Young Geographers Workshop Held Online</a><br></strong>
         </router-link>
         <small class="home-date">Dec 18-19, 2021<br></small>
         <p>On December 18th–19th, 2021, the First Asian Young Geographers Workshop was held online. Initiated by the Young Geographers Working Group of the Asian Geographical Association (AGA-YCWG), the Workshop was jointly organized by AGA-YGWG, Young and Early Career Geographers Task Force of the International Geographical Union (IGU-YECG) and Working Committee for Young Geographers of the Geographical Society of China (GSC- WCYG). Under the theme “Young Geographers’ Response to Challenges in Asia”, the workshop attracted about 600 participants from 30 countries and regions worldwide. After call for paper within two weeks, a total of 213 abstracts and papers were received. As a result, 178 of them have been selected for oral presentations in 14 sessions of different topics, such as Building Resilience to Poverty Reduction in Asia, Hydro-Climatic Extreme Events in Mountain Regions, Geographical Indications Environment and Sustainability, etc.<br></p>
         <p>The abstract follows:
-          <router-link to="/Events/2022/1">
+          <router-link to="/Events/2021/1">
             (more…)
           </router-link>
         </p>
@@ -42,7 +42,7 @@
 
       <div>
         <strong class="home-h"><a href="https://www.sciencedirect.com/science/article/pii/S0012825220302695" target="_blank">A Position Paper on Open Web-Distributed Integrated Geographic Modelling and Simulation to Enable Broader Participation and Applications</a><br></strong>
-        <small class="home-date">Nov 23th-24th, 2021<br></small>
+        <small class="home-date">June 24, 2020<br></small>
         <p>Chair of YGWG of AGA joined forces to write a position paper on Open Web-Distributed Integrated Geographic Modelling and Simulation to Enable Broader Participation and Applications.
 
           The paper has appeared on the Elsevier journal Earth-Science Reviews and it is open access.<br></p>

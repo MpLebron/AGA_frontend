@@ -81,7 +81,7 @@
             <div>
               <strong><a target="_blank" href="https://www.sciencedirect.com/journal/remote-sensing-of-environment">Remote Sensing of Environment</a></strong><br>
               <p>
-                <label>ISSN</label>: 2072-4292<br>
+                <label>ISSN</label>: 0034-4257<br>
                 <label>Impact Factor</label>: 13.85 (2021) <br>
                 <label>Description</label>: Remote Sensing of Environment (RSE) serves the Earth
                 observation community with the publication of results on the theory, science, applications, and
@@ -129,7 +129,7 @@
             <div>
               <strong><a target="_blank" href="https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing">ISPRS Journal of Photogrammetry and Remote Sensing</a></strong><br>
               <p>
-                <label>ISSN</label>: 0034-4257<br>
+                <label>ISSN</label>: 0924-2716<br>
                 <label>Impact Factor</label>: 11.77 (2021) <br>
                 <label>Description</label>: The ISPRS Journal of Photogrammetry and Remote Sensing (P&RS) is the official journal of the International Society for Photogrammetry and Remote Sensing (ISPRS). The Journal provides a channel of communication for scientists and professionals in all countries working in the many disciplines that employ photogrammetry, remote sensing, spatial information systems, computer vision, and related fields. The Journal is designed to serve as a source reference and archive of advancements in these disciplines.
               </p>
@@ -270,7 +270,7 @@
             <div>
               <strong><a target="_blank" href="https://www.tandfonline.com/toc/tgis20/current">International Journal of Geographical Information Science</a></strong><br>
               <p>
-                <label>ISSN</label>: 1545-598X<br>
+                <label>ISSN</label>: 1365-8816<br>
                 <label>Impact Factor</label>: 5.15 (2021) <br>
                 <label>Description</label>: The aim of International Journal of Geographical Information Science is to provide a forum for the exchange of original ideas, approaches, methods and experiences in the field of GIScience.
                 International Journal of Geographical Information Science covers the following topics:Innovations and novel applications of GIScience in natural resources, social systems and the built environment Relevant developments in computer science, cartography, surveying, geography, and engineering Fundamental and computational issues of geographic information

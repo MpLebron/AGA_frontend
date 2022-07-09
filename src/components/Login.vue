@@ -169,7 +169,7 @@ export default {
       }
 
       // 向接口发送登录请求
-      this.$http.post('http://39.98.210.144/mgsc_api/user/login', qs.stringify(datalogin)).then(res => {
+      this.$http.post('http://39.98.210.144/AGA_api/user/login', qs.stringify(datalogin)).then(res => {
         // 将返回信息进行解构赋值
         let { data: resData } = res
 
@@ -214,7 +214,7 @@ export default {
 
             // 向服务器请求当前memberId所对应的用户的信息
             this.$http
-              .post('http://39.98.210.144/mgsc_api/in/Space', qs.stringify(memberData))
+              .post('http://39.98.210.144/AGA_api/in/Space', qs.stringify(memberData))
               .then(res => {
                 console.log(res)
                 const { data: resData } = res
@@ -276,7 +276,7 @@ export default {
       }
 
       // 向接口发送注册请求
-      this.$http.post('http://39.98.210.144/mgsc_api/user/register', qs.stringify(dataRegister)).then(res => {
+      this.$http.post('http://39.98.210.144/AGA_api/user/register', qs.stringify(dataRegister)).then(res => {
         // 将返回信息进行解构赋值
         let { data: resData } = res
 
@@ -327,7 +327,7 @@ export default {
           newPass: newPassword
         }
 
-        this.$http.post('http://39.98.210.144/mgsc_api/user/resetPassword', qs.stringify(dataReset)).then(res => {
+        this.$http.post('http://39.98.210.144/AGA_api/user/resetPassword', qs.stringify(dataReset)).then(res => {
           let { data: resData } = res
 
           if (resData === 'suc') {
@@ -386,7 +386,7 @@ export default {
       } else {
         if (this.isEmail(VCEmail)) {
           this.$http
-            .post('http://39.98.210.144/mgsc_api/user/sendCode', qs.stringify(vcemailData))
+            .post('http://39.98.210.144/AGA_api/user/sendCode', qs.stringify(vcemailData))
             .then(res => {
               let { data: resData } = res
               if (resData === 'suc') {

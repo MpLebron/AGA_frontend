@@ -47,7 +47,7 @@
           <el-input v-model="input" placeholder="Please input your memberID!" style="margin-top:15px" ref="memberIDRef"></el-input>
           <el-button type="primary" plain @click="Submit" style="margin-left: 30px">Submit</el-button>
           <p>
-            Tip: Click <a href="http://221.226.60.2:8082/data/bba08c9c-4cba-4a34-bf6f-c1819f9ba91a" style="cursor: pointer">here</a> to apply for membership.
+            Tip: Click <a href="http://221.226.60.2:8082/data/4312df91-94f5-4467-90cc-3374e78f9a16" style="cursor: pointer">here</a> to apply for membership.
           </p>
           <el-button type="primary" plain @click="logOut">Log out</el-button>
         </div>
@@ -93,7 +93,7 @@ export default {
         memberId: memberID
       }
 
-      this.$http.post('http://39.98.210.144/mgsc_api/member/updateid', qs.stringify(dataMemberID)).then(res => {
+      this.$http.post('http://39.98.210.144/AGA_api/member/updateid', qs.stringify(dataMemberID)).then(res => {
         let { data: resData } = res
 
         // 如果发送请求并关联成功
@@ -104,7 +104,7 @@ export default {
           })
 
           // 二次发送请求,并进行跳转
-          this.$http.post('http://39.98.210.144/mgsc_api/in/Space', resData).then(res => {
+          this.$http.post('http://39.98.210.144/AGA_api/in/Space', resData).then(res => {
             let { data: resData2 } = res
             if (resData2 === 'userspace') {
               window.location.href = '#/UserSpace'
@@ -124,7 +124,7 @@ export default {
     },
 
     logOut() {
-      this.$http.post('http://39.98.210.144/mgsc_api/logout').then(function () {
+      this.$http.post('http://39.98.210.144/AGA_api/logout').then(function () {
         sessionStorage.clear()
         window.location.href = '#/Home'
       })

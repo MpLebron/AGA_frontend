@@ -102,7 +102,7 @@ export default {
       const memberIdData = {
         memberId: memberId
       }
-      this.$http.post('http://39.98.210.144/mgsc_api/member/renew', qs.stringify(memberIdData)).then(res => {
+      this.$http.post('http://39.98.210.144/AGA_api/member/renew', qs.stringify(memberIdData)).then(res => {
         const { data: resData } = res
         this.$alert(resData, 'Message', {
           confirmButtonText: 'OK',
@@ -112,7 +112,7 @@ export default {
     },
 
     logOut() {
-      this.$http.post('http://39.98.210.144/mgsc_api/logout').then(function () {
+      this.$http.post('http://39.98.210.144/AGA_api/logout').then(function () {
         sessionStorage.clear()
         window.location.href = '#/Home'
       })
